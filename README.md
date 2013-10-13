@@ -65,7 +65,7 @@ Second step need to add a epg- genre folder in the skins media folder
 		
 And add this file in the media folder
 	
-	<add file>
+	epg-genres
 	
 In the epg-genre folder is the Genre color with Genre name.  
 
