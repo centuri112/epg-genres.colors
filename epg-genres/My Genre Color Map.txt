@@ -16,6 +16,9 @@ Golf
 Auto Racing
 Playoff Sports
 Hunting
+Gymnastics
+Shooting
+Sports non-event
 
 **News/Current Affairs** Color: GREEN
 News
@@ -63,6 +66,7 @@ Movie
 **Movie/Drama** Color: Purple
 Drama
 Romance
+Historical Drama
 
 **Special** Color: Light Light Blue
 Outdoors
@@ -91,6 +95,8 @@ Western
 Soap
 Variety
 War
+Law
+Adults Only
 
 
 **leisure/hobbies** Color: Gray
@@ -107,6 +113,12 @@ Home Improvement
 How-To
 Cooking
 Fashion
+Aviation
+Dance
+Auction
+Art
+Exercise
+Parenting
 
 **others\Unknown** Color: Light Gray
 Consumer
